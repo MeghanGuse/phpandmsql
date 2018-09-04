@@ -9,5 +9,9 @@
     <p>
       <img src="https://i.imgflip.com/4exm.jpg" style="width: 200px;" />
     </p>
+    <?php
+      echo "This was generated
+      <br> using .PHP!";
+    ?>
   </body>
 </html>
